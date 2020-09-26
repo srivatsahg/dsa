@@ -1,0 +1,6 @@
+C:\Personal\Technical\Interview\HackerRank\Arrays\RotateArrays\RotateArrays\obj\Debug\RotateArrays.csproj.CoreCompileInputs.cache
+C:\Personal\Technical\Interview\HackerRank\Arrays\RotateArrays\RotateArrays\bin\Debug\RotateArrays.exe.config
+C:\Personal\Technical\Interview\HackerRank\Arrays\RotateArrays\RotateArrays\bin\Debug\RotateArrays.exe
+C:\Personal\Technical\Interview\HackerRank\Arrays\RotateArrays\RotateArrays\bin\Debug\RotateArrays.pdb
+C:\Personal\Technical\Interview\HackerRank\Arrays\RotateArrays\RotateArrays\obj\Debug\RotateArrays.exe
+C:\Personal\Technical\Interview\HackerRank\Arrays\RotateArrays\RotateArrays\obj\Debug\RotateArrays.pdb
