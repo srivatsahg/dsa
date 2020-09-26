@@ -1,0 +1,6 @@
+C:\Personal\Technical\Interview\HackerRank\Samples\DateFormatting\bin\Debug\DateFormatting.exe.config
+C:\Personal\Technical\Interview\HackerRank\Samples\DateFormatting\bin\Debug\DateFormatting.exe
+C:\Personal\Technical\Interview\HackerRank\Samples\DateFormatting\bin\Debug\DateFormatting.pdb
+C:\Personal\Technical\Interview\HackerRank\Samples\DateFormatting\obj\Debug\DateFormatting.csproj.CoreCompileInputs.cache
+C:\Personal\Technical\Interview\HackerRank\Samples\DateFormatting\obj\Debug\DateFormatting.exe
+C:\Personal\Technical\Interview\HackerRank\Samples\DateFormatting\obj\Debug\DateFormatting.pdb
